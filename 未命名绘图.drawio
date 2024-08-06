@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="e_22g5U1S9ivuY9E5TBe">
-    <mxGraphModel dx="733" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,8 +52,53 @@
         <mxCell id="3mXHR_yEGwMdCNcCOuMn-1" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;问题一&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="140" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3mXHR_yEGwMdCNcCOuMn-2" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="3mXHR_yEGwMdCNcCOuMn-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;问题二&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3mXHR_yEGwMdCNcCOuMn-5" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;问题三&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3mXHR_yEGwMdCNcCOuMn-6" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;问题四&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3mXHR_yEGwMdCNcCOuMn-7" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;问题五&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3mXHR_yEGwMdCNcCOuMn-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="160" as="sourcePoint" />
+            <mxPoint x="230" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3mXHR_yEGwMdCNcCOuMn-9" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;数据清洗&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3mXHR_yEGwMdCNcCOuMn-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="160" as="sourcePoint" />
+            <mxPoint x="340" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3mXHR_yEGwMdCNcCOuMn-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;统计最高&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;得分（BS）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3mXHR_yEGwMdCNcCOuMn-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="160" as="sourcePoint" />
+            <mxPoint x="450" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3mXHR_yEGwMdCNcCOuMn-13" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;统计各城市获得&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; font-family: 宋体; background-color: initial;&quot;&gt;BS的景点数量&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3mXHR_yEGwMdCNcCOuMn-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="160" as="sourcePoint" />
+            <mxPoint x="580" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3mXHR_yEGwMdCNcCOuMn-15" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;针对城市获得BS景点数量&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;建立排行&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="130" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
